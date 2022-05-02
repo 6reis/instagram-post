@@ -1,0 +1,42 @@
+.postcard{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+
+.perfil{ 
+ display: flex;
+ max-width: 60px;
+ border-radius: 50px;
+ margin: 10px;
+}
+.grace-study{
+    max-width: 150vw;
+    max-height: 111vw;
+    margin: 20px;
+    height: auto;
+}
+p{
+ margin: 20px;
+}
+body{
+    margin-top: 0;
+    width: 100%;
+    background: #FAFAFA;
+    position: relative;
+    font-family: 'roboto', sans-serif;
+}
+reaction-wrapper{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    margin-top: -4px;
+    align-items: center;
+}
+.reaction-wrapper .icon{
+    height: 25px;
+    margin: 0;
+    margin-right: 20px;
+    margin-top: 10px;
+}
